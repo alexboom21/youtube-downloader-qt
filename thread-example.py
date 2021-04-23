@@ -63,6 +63,7 @@ def using_move_to_thread():
     objThread.finished.connect(app.exit)
     objThread.start()
     sys.exit(app.exec_())
+    https://softorino.com/how-to-transfer-music-from-computer-to-iphone/
 
 def using_q_runnable():
     app = QCoreApplication([])
